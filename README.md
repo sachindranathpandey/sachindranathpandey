@@ -15,9 +15,6 @@ Full Stack Developer. My Role & Responsibilities are-
 Troubleshooting, suggesting improvements and debugging 
 👉Staying well-informed about the current developments in the world of web development, learning about emerging concepts in full stack, and updating project leaders regarding the same 
 Working with team members of different expertise to provide a user-friendly and smooth website application as an end-result 
-👉Ensuring the safety and security of the website/application/software developed 
-Meeting with decision-makers and introducing new developments to the project to ensure optimal web development.  
-👉Developing Application Programming Interface (APIs) which is quite indispensable when it comes to working with different software  
 
 ![Visitor Count](https://profile-counter.glitch.me/sachindranathpandey/count.svg)
 
